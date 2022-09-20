@@ -1,7 +1,7 @@
 # Twinkles-Store
 The project implements Reactive Programming, Event-driven and Microservices design patterns, Spring Cloud( Sleuth, Circuit-Breaker, Netflix Eureka ), Keycloak for Security, Spring Rest, among others.
 
-Services
+# Services
 1) API Gateway
 2) Discovery Service(service registry and config server)
 3) Authentication(Key-Cloak)
@@ -10,7 +10,7 @@ Services
 6) Order
 7) Notification
 
-Spring Cloud components
+# Spring Cloud components
 1) Eureka for Microservice Registration and Discovery and Dynamic scaling
 2) Netflix-eureka for API Gateway
 3) Feign for declarative REST client for Microservices
