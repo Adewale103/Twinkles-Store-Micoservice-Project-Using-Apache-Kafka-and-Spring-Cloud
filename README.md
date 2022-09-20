@@ -16,3 +16,5 @@ Spring Cloud components
 3) Feign for declarative REST client for Microservices
 4) Hystrix for fault tolerance
 5) Distributed Tracing using Spring Cloud Sleuth and Zipkin
+
+![Spring Eureka](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/SpringEureka1.png)
