@@ -18,3 +18,7 @@ Spring Cloud components
 5) Distributed Tracing using Spring Cloud Sleuth and Zipkin
 
 ![Spring Eureka](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/SpringEureka1.png)
+![Zipkin](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/Zipkin1.png)
+![Authentication](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/Authentication1.png)
+![postman](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/postman.png)
+![keycloak](https://raw.githubusercontent.com/Adewale103/Twinkles-Store/main/keycloak.png)
