@@ -1,5 +1,5 @@
 # Twinkles-Store
-The project implements Reactive Programming, Event-driven and Microservices design patterns, Spring Cloud(Sleuth, Circuit-Breaker, Netflix Eureka), Keycloak for Security, Spring Rest, among others.
+The project implements Reactive Programming, Event-driven and Microservices design patterns, Spring Cloud( Sleuth, Circuit-Breaker, Netflix Eureka ), Keycloak for Security, Spring Rest, among others.
 
 Services
 1) API Gateway
